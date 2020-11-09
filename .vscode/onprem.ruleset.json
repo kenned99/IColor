@@ -1,0 +1,25 @@
+{
+    "name": "COR Ruleset OnPrem Development",
+    "rules": [
+        {                    
+            "id": "PTE0004",                    
+            "action": "None"
+        },
+        {                    
+            "id": "PTE0005",                    
+            "action": "None"
+        },
+        {                    
+            "id": "AA0214",
+            "action": "None"
+        },
+        {                    
+            "id": "AA0215",                    
+            "action": "None"
+        },
+        {                    
+            "id": "AA0218",                    
+            "action": "None"
+        }
+    ]
+}

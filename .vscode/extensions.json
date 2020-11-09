@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"ms-vsts.team",
+		"eamodio.gitlens",
+		"waldo.crs-al-language-extension",
+		"martonsagi.al-object-designer",
+	],
+}
